@@ -1,2 +1,2 @@
 # MIPS-Fpga
-Creation of a MIPS Processor using VHDL on Basys3
+Implementation of a Microprocessor without Interlocked Pipelined Stages (MIPS) Architecture using VHDL on Basys3
